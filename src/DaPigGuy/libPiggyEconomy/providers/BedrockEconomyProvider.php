@@ -7,7 +7,7 @@ namespace DaPigGuy\libPiggyEconomy\providers;
 use cooldogedev\BedrockEconomy\api\legacy\ClosureContext;
 use cooldogedev\BedrockEconomy\BedrockEconomy;
 use cooldogedev\BedrockEconomy\api\BedrockEconomyAPI;
-use cooldogedev\BedrockEconomy\api\version\LegacyAPI;
+use cooldogedev\BedrockEconomy\api\type\LegacyAPI;
 use cooldogedev\BedrockEconomy\currency\CurrencyManager;
 use pocketmine\player\Player;
 use pocketmine\Server;
